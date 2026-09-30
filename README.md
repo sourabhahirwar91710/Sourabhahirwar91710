@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Sourabh Ahirwar
 
-<!--
-**sourabhahirwar91710/Sourabhahirwar91710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Java Full Stack & AI Engineering Learner
+📚 Currently focusing on Data Structures & Algorithms
+🚀 Building projects and improving my programming skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Learning
+
+* Java
+* Data Structures & Algorithms
+* Full Stack Development
+* AI & Machine Learning
+* Git & GitHub
+
+## 🎯 Goals
+
+* Build real-world projects
+* Improve problem-solving skills
+* Gain internship experience
+* Become a skilled software developer
